@@ -114,7 +114,7 @@ time_stretch,real_sonics,sonics_alpha_120s,94.41
 time_stretch,real_sonics,sonics_beta_120s,98.91
 time_stretch,real_sonics,sonics_gamma_120s,92.75
 time_stretch,real_sonics,cnn_lara_dataset,99.86
-time_stretch,real_sonics,cnn_sonics,22.1
+time_stretch,real_sonics,cnn_sonics,99.89
 time_stretch,real_sonics,svm_lara,22.1
 time_stretch,real_sonics,rf_lara,10.5
 time_stretch,real_sonics,knn_lara,12.7
